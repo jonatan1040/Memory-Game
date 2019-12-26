@@ -1,0 +1,23 @@
+body {
+    background-image: url(./images/background.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.container-fluid {
+    padding: 3%;
+}
+
+.row.two {
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.col {}
+
+.allcols {}
+
+img {
+    width: 22vw;
+    height: 26vh;
+}
