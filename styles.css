@@ -41,6 +41,10 @@ body {
 }
 
 img {
-    width: 19vw;
+    width: 22vw;
     height: 19vh;
+}
+
+.not_clickable {
+    pointer-events: none;
 }
